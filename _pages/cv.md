@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.S.** in Sun Yat-Sen University, Sep. 2017 - Jun. 2021
+  * Major: Traffic Engineering
+  * Minor: Logic
+* **M.S.** in Sun Yat-Sen University, Sep. 2021 - Jun. 2024 (Expected)
+  * Major: Traffic Information Engineering & Control
+  * Advisor: Prof. Linlin You
 
-Work experience
+Project Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Research and Application of Asynchronous Federated Learning Model for 5G Heterogeneous Intelligent Terminal Collaboration** 
+  * National Natural Science Foundation for Young Scholars, Participant, 2021.09-Now
+  * Considering the heterogeneous IoT environment and the dynamic change of resources (data), I study the client selection, communication optimization, and aggregation enhancement algorithms for Asynchronous Federated Learning (AFL) based on the Deep Neural Networks (DNNs) and information theory to improve model performance and learning efficiency significantly.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research of Autonomous Transportation System Architecture** 
+  * National Key R&D Program, Participant, 2021.09-Now
+  * Towards the data islands and personalization demands, I build an asynchronous federated meta-learning framework for efficient collaboration in smart mobility scenarios. Such that, a meta-model with rapid adaptation ability can be trained to realize high-performing charging station occupancy prediction and driver distraction detection.
+
+
+
+
+
 
 Publications
 ======
@@ -42,11 +39,31 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Submitted Papers
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[1] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
+
+[2] You L (Advisor), **Liu S**, et al. Federated and Asynchronized Learning for Autonomous and Intelligent Things.
+
+[3] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
+
+[4] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
+
+
+Awards
+======
+* **Samsung Scholarship** (Only one person is selected in the school), 2022
+* **First-class Scholarship** for Postgraduates, 2022
+* **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
+
+
+Academic Services
+======
+* Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
+* Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+* Reviewer for Scientific Reports
+* Reviewer for IEEE Access
+
   
 Teaching
 ======
@@ -54,6 +71,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

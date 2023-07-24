@@ -8,7 +8,6 @@ venue: 'Mathematics'
 paperurl: 'https://www.mdpi.com/2227-7390/11/8/1867'
 citation: 'Z Guo, L You, S Liu, J He, and B Zuo, "ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection", Mathematics, 11(8):1867, Apr, 2023, doi: 10.3390/math11081867.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://nobody910.github.io/files/ICMFed.pdf)
 

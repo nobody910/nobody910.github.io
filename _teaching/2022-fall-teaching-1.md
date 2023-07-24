@@ -10,11 +10,5 @@ location: "Shenzhen, China"
 
 Served as a teaching assistent for Instructor Prof. Linlin You in 2022/23 Fall.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Homework designing, tutoring, and grading.
+* Preparing course slides and tutoring students on Wireshark and Socket.

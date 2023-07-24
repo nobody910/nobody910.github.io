@@ -10,11 +10,5 @@ location: "Shenzhen, China"
 
 Served as a teaching assistent for Instructor Prof. Linlin You in 2022/23 Spring.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Homework grading.
+* Preparing course slides and codes about federated learning.

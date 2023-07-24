@@ -10,11 +10,6 @@ location: "Shenzhen, China"
 
 Served as a teaching assistent for Instructor Prof. Linlin You in 2022/23 Spring.
 
-Heading 1
-======
+* Homework designing, tutoring, and grading.
+* Preparing course slides and tutoring students on machine learning codes such as SVM, DT, LR, ARIMA, CNN, RNN, and GAN.
 
-Heading 2
-======
-
-Heading 3
-======

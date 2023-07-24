@@ -2,7 +2,7 @@
 title: "Federated Architecture for Personal Mobility Service in Autonomous Transportation System"
 collection: publications
 permalink: /publication/fpms
-excerpt: '.'
+excerpt: ''
 date: 2022-07-11
 venue: 'COTA International Conference of Transportation Professionals'
 

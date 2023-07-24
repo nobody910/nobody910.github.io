@@ -8,7 +8,7 @@ venue: 'IEEE International Conference on Ubiquitous Intelligence and Computing'
 
 paperurl: 'https://conferences.computer.org/smartworldpub/pdfs/SmartWorld-UIC-ScalCom-DigitalTwin-PriComp-Metaverse2022-13GwzHPzYKO8YISV8cpSM0/465500a641/465500a641.pdf'
 
-citation: 'S Liu, H Qu, Q Chen, W Jian, R Liu, and L You, "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation", IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 641-648.'
+citation: 'S Liu, H Qu, Q Chen, W Jian, R Liu, and L You, "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation", in IEEE International Conference on Ubiquitous Intelligence and Computing, 641-648, Dec, 2022.'
 ---
 Username: smartworldpub22 and Password: conf22// to access the paper.
 

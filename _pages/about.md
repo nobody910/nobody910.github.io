@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing a master's degree with the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng . degree in 2021. My research is supervised by Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
+I'm pursuing a master's degree with the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng. degree in 2021. My research is supervised by Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
 
 My **research interests** include, but are not limited to: 
 * Artificial Intelligence (AI)

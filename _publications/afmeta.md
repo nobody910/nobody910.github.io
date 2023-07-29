@@ -2,15 +2,14 @@
 title: "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation"
 collection: publications
 permalink: /publication/afmeta
-excerpt: 'Username: smartworldpub22 and Password: conf22// to access the paper.'
+excerpt: ''
 date: 2022-12-16
 venue: 'IEEE International Conference on Ubiquitous Intelligence and Computing'
 
-paperurl: 'https://conferences.computer.org/smartworldpub/pdfs/SmartWorld-UIC-ScalCom-DigitalTwin-PriComp-Metaverse2022-13GwzHPzYKO8YISV8cpSM0/465500a641/465500a641.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10189596'
 
 citation: 'S Liu, H Qu, Q Chen, W Jian, R Liu, and L You, "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation", in IEEE International Conference on Ubiquitous Intelligence and Computing, 641-648, Dec, 2022.'
 ---
-Username: smartworldpub22 and Password: conf22// to access the paper.
 
 [Download paper here](http://nobody910.github.io/files/AFMeta.pdf)
 

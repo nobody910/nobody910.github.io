@@ -43,11 +43,9 @@ Submitted Papers
 ======
 [1] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
 
-[2] You L (Advisor), **Liu S**, et al. Federated and Asynchronized Learning for Autonomous and Intelligent Things.
+[2] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
 
-[3] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
-
-[4] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
+[3] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
 
 
 Awards

@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Bachelor's Degree** in Sun Yat-Sen University, Sep. 2017 - Jun. 2021
+* **Bachelor's Degree** in Sun Yat-Sen University, Sep. 2017 - Jul. 2021
   * Major: Traffic Engineering
   * Minor: Logic
-* **Master's Degree** in Sun Yat-Sen University, Sep. 2021 - Jun. 2024 (Expected)
+* **Master's Degree** in Sun Yat-Sen University, Sep. 2021 - Jul. 2024 (Expected)
   * Major: Traffic Information Engineering & Control
   * Advisor: Prof. Linlin You
 

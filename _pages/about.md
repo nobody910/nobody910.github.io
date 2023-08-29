@@ -35,7 +35,7 @@ Project Experience
 Publications
 ======
 [1] You L(Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H.V, “Federated and Asynchronized 
-Learning for Autonomous and Intelligent Things”, IEEE Network, 2023.(Accepted, JCR Q1, IF 9.3) 
+Learning for Autonomous and Intelligent Things”, IEEE Network, 2023. (Accepted, JCR Q1, IF 9.3) 
 
 [2] You L (Advisor), **Liu S**, Chang Y, and Yuen C. [A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement](https://ieeexplore.ieee.org/abstract/document/9815310)[J]. IEEE Internet of Things Journal, 2022, 9(23): 24199-24211. (JCR Q1, IF 10.6)
 

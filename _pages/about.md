@@ -41,13 +41,13 @@ Learning for Autonomous and Intelligent Things”, IEEE Network, 2023. (Accepted
 
 [3] **Liu S**, Chen Q, and You L. [Fed2A: Federated Learning Mechanism in Asynchronous and Adaptive Modes](https://www.mdpi.com/2079-9292/11/9/1393)[J]. Electronics, 2022, 11(9): 1393. (JCR Q2, IF 2.9)
 
-[4] **Liu S**, Qu H, Chen Q, Jian W, Liu R, and You L. [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation](https://ieeexplore.ieee.org/document/10189596)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 641-648. (CCF-C)
+[4] **Liu S**, Qu H, Chen Q, Jian W, Liu R, and You L. [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation](https://ieeexplore.ieee.org/document/10189596)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 641-648. (CCF-C, 17.9% acceptance rate)
 
 [5] Qu H, **Liu S**, Li J, Zhou Y, and Liu R. [Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction](https://www.mdpi.com/2227-7390/10/12/2039)[J]. Mathematics, 2022, 10(12): 2039. (JCR Q1, IF 2.4)
 
-[6] Qu H, **Liu S**, Guo Z, You L, and Li J. [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13)[C]//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 159-172. (CCF-C)
+[6] Qu H, **Liu S**, Guo Z, You L, and Li J. [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13)[C]//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 159-172. (CCF-C, 33.9% acceptance rate)
 
-[7] Chen Q, **Liu S**, Qu H, Zhu R, and You L. [TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction](https://ieeexplore.ieee.org/document/10189531)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 1611-1618. (CCF-C)
+[7] Chen Q, **Liu S**, Qu H, Zhu R, and You L. [TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction](https://ieeexplore.ieee.org/document/10189531)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 1611-1618. (CCF-C, 24.5% acceptance rate)
 
 [8] Guo Z, You L (Advisor), **Liu S**, He J, and Zuo B. [ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection](https://www.mdpi.com/2227-7390/11/8/1867)[J]. Mathematics, 2023, 11(8): 1867. (JCR Q1, IF 2.4)
 

@@ -34,8 +34,8 @@ Project Experience
 
 Publications
 ======
-[1] You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V, “Federated and Asynchronized 
-Learning for Autonomous and Intelligent Things”, IEEE Network, 2023. (Accepted, JCR Q1, IF 9.3) 
+[1] You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V. Federated and Asynchronized 
+Learning for Autonomous and Intelligent Things, IEEE Network, 2023. (Accepted, JCR Q1, IF 9.3) 
 
 [2] You L (Advisor), **Liu S**, Chang Y, and Yuen C. [A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement](https://ieeexplore.ieee.org/abstract/document/9815310)[J]. IEEE Internet of Things Journal, 2022, 9(23): 24199-24211. (JCR Q1, IF 10.6)
 
@@ -45,20 +45,22 @@ Learning for Autonomous and Intelligent Things”, IEEE Network, 2023. (Accepted
 
 [5] Qu H, **Liu S**, Li J, Zhou Y, and Liu R. [Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction](https://www.mdpi.com/2227-7390/10/12/2039)[J]. Mathematics, 2022, 10(12): 2039. (JCR Q1, IF 2.4)
 
-[6] Qu H, **Liu S**, Guo Z, You L, and Li J. [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13)[C]//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 159-172. (CCF-C, 33.9% acceptance rate)
+[6] Chen G, **Liu S**, Yang X, You L, and Xia F. FedRSM: Representational-Similarity-Based Secured Model Uploading for Federated Learning, IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2023. (Aceepted, CCF-C, no more than 30% acceptance rate)
 
-[7] Chen Q, **Liu S**, Qu H, Zhu R, and You L. [TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction](https://ieeexplore.ieee.org/document/10189531)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 1611-1618. (CCF-C, 24.5% acceptance rate)
+[7] Qu H, **Liu S**, Guo Z, You L, and Li J. [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13)[C]//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 159-172. (CCF-C, 33.9% acceptance rate)
 
-[8] Guo Z, You L (Advisor), **Liu S**, He J, and Zuo B. [ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection](https://www.mdpi.com/2227-7390/11/8/1867)[J]. Mathematics, 2023, 11(8): 1867. (JCR Q1, IF 2.4)
+[8] Chen Q, **Liu S**, Qu H, Zhu R, and You L. [TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction](https://ieeexplore.ieee.org/document/10189531)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing, 2022: 1611-1618. (CCF-C, 24.5% acceptance rate)
+
+[9] Guo Z, You L (Advisor), **Liu S**, He J, and Zuo B. [ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection](https://www.mdpi.com/2227-7390/11/8/1867)[J]. Mathematics, 2023, 11(8): 1867. (JCR Q1, IF 2.4)
 
 
 Submitted Papers
 ======
-[9] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
+[10] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
 
-[10] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
+[11] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
 
-[11] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
+[12] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
 
 
 Awards

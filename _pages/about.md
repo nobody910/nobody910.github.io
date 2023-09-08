@@ -45,7 +45,7 @@ Learning for Autonomous and Intelligent Things, IEEE Network, 2023. (Accepted, J
 
 [5] Qu H, **Liu S**, Li J, Zhou Y, and Liu R. [Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction](https://www.mdpi.com/2227-7390/10/12/2039)[J]. Mathematics, 2022, 10(12): 2039. (JCR Q1, IF 2.4)
 
-[6] Chen G, **Liu S**, Yang X, You L, and Xia F. FedRSM: Representational-Similarity-Based Secured Model Uploading for Federated Learning, IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2023. (Aceepted, CCF-C, no more than 30% acceptance rate)
+[6] Chen G, **Liu S**, Yang X, You L, and Xia F. FedRSM: Representational-Similarity-Based Secured Model Uploading for Federated Learning, IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2023. (Accepted, CCF-C, no more than 30% acceptance rate)
 
 [7] Qu H, **Liu S**, Guo Z, You L, and Li J. [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13)[C]//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2022: 159-172. (CCF-C, 33.9% acceptance rate)
 

@@ -45,13 +45,13 @@ Submitted Papers
 
 [2] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
 
-[3] **Liu S**, et al. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning.
 
 
 Awards
 ======
+* **Shenzhen Excellent Academic Paper Award**, 2023
+* **National Scholarship** for Postgraduates, 2023
 * **Samsung Scholarship** (Only one person is selected in the school), 2022
-* **First-class Scholarship** for Postgraduates, 2022
 * **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 
 

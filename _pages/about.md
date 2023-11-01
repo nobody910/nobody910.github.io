@@ -36,7 +36,7 @@ Publications
 ======
 [1] You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V. [Federated and Asynchronized Learning for Autonomous and Intelligent Things](https://ieeexplore.ieee.org/document/10274563)[J], IEEE Network, 2023. (JCR Q1, IF 9.3) 
 
-[2] You L (Advisor), **Liu S**, Chang Y, and Yuen C. [A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement](https://ieeexplore.ieee.org/abstract/document/9815310)[J]. IEEE Internet of Things Journal, 2022, 9(23): 24199-24211. (JCR Q1, IF 10.6)
+[2] You L (Advisor), **Liu S**, Chang Y, and Yuen C. [A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement](https://ieeexplore.ieee.org/abstract/document/9815310)[J]. IEEE Internet of Things Journal, 2022, 9(23): 24199-24211. (JCR Q1, IF 10.6, Shenzhen Excellent Academic Paper Award)
 
 [3] **Liu S**, Chen Q, and You L. [Fed2A: Federated Learning Mechanism in Asynchronous and Adaptive Modes](https://www.mdpi.com/2079-9292/11/9/1393)[J]. Electronics, 2022, 11(9): 1393. (JCR Q2, IF 2.9)
 
@@ -64,8 +64,9 @@ Submitted Papers
 
 Awards
 ======
+* **Shenzhen Excellent Academic Paper Award**, 2023
+* **National Scholarship** for Postgraduates, 2023
 * **Samsung Scholarship** (Only one person is selected in the school), 2022
-* **First-class Scholarship** for Postgraduates, 2022
 * **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 
 
@@ -82,6 +83,11 @@ Teaching Experience
 * Teaching Assistant for **Traffic Information Engineering**, PG Level, 2022/23 Spring
 * Teaching Assistant for **Network and Communication Principles**, UG Level, 2022/23 Fall
 * Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2021/22 Spring
+
+Hobbies
+======
+* Reading
+* Volunteering
 
 
 

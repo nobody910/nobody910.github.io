@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-08-26
 venue: 'IEEE Network'
 paperurl: 'https://ieeexplore.ieee.org/document/10274563'
-citation: 'L You, S Liu, B Zuo, C Yuen, D Niyato and H Vincent Poor, "Federated and Asynchronized Learning for Autonomous and Intelligent Things," IEEE Network, doi: 10.1109/MNET.2023.3321519.'
+citation: 'L You, S Liu, B Zuo, C Yuen, D Niyato, and H Vincent Poor, "Federated and Asynchronized Learning for Autonomous and Intelligent Things", IEEE Network, Aug, 2023, doi: 10.1109/MNET.2023.3321519.'
 
 ---
 

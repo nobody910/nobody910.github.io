@@ -43,7 +43,6 @@ Submitted Papers
 ======
 [1] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
 
-[2] You L (Advisor), **Liu S**, et al. AiFed: An Adaptive and Integrated Mechanism for Federated Data Mining in Asynchronous Mode.
 
 
 

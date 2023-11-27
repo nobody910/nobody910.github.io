@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Google Analytics
+google_analytics: G-T9ZKL7KSJL
+
 # Site Settings
 locale                   : "Shenzhen-China"
 title                    : "Sheng Liu's Website"

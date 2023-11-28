@@ -2,8 +2,11 @@
 
 url: http://localhost:4000
 
+# Google Analytics
+google_analytics: G-T9ZKL7KSJL
+
 analytics:
-  provider: true
+  provider: google
 
 comments:
   disqus:

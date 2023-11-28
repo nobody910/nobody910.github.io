@@ -2,6 +2,16 @@
 
 url: http://localhost:4000
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9ZKL7KSJL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9ZKL7KSJL');
+</script>
+
 # Google Analytics
 google_analytics: G-T9ZKL7KSJL
 

@@ -23,7 +23,7 @@ and their applications in:
 * Internet of Things (IoT)
 * Smart Healthcare
 
-**I'm looking for a PhD position in these fileds.**
+**<font color=red>I'm looking for a PhD position in these fileds.</font>**
 
 Project Experience
 ======

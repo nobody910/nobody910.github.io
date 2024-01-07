@@ -29,10 +29,12 @@ and their applications in:
 
 News
 ======
-1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"] (https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
-1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"] (https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
+1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
+1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"](https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
 1. [Oct. 2023] I am honored to receive the <font color=green>National Scholarship for Postgraduates</font>!
 1. [Oct. 2023] My conference paper titled "FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning" is accepted by <font color=green>EAI MobiQuitous</font>! 
+
+---
 
 Project Experience
 ======
@@ -43,6 +45,8 @@ Project Experience
 * **Research of Autonomous Transportation System Architecture** 
   * National Key R&D Program, Participant, 2021.09-Now
   * Towards the data islands and personalization demands, I build an asynchronous federated meta-learning framework for efficient collaboration in smart mobility scenarios. Such that, a meta-model with rapid adaptation ability can be trained to realize high-performing charging station occupancy prediction and driver distraction detection.
+
+---
 
 Publications
 ======
@@ -68,12 +72,13 @@ Publications
 
 1. Guo Z, You L (Advisor), **Liu S**, He J, and Zuo B. [ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection](https://www.mdpi.com/2227-7390/11/8/1867)[J]. Mathematics, 2023, 11(8): 1867. (JCR Q1, IF 2.4)
 
+---
 
 Submitted Papers
 ======
 1. **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
 
-
+---
 
 Awards
 ======
@@ -82,6 +87,7 @@ Awards
 1. **Samsung Scholarship** (Only one person is selected in the school), 2022
 1. **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 
+---
 
 Academic Services
 ======
@@ -90,6 +96,8 @@ Academic Services
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
 
+---
+
 Teaching Experience
 ======
 1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2022/23 Spring 
@@ -97,10 +105,14 @@ Teaching Experience
 1. Teaching Assistant for **Network and Communication Principles**, UG Level, 2022/23 Fall
 1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2021/22 Spring
 
+---
+
 Hobbies
 ======
 1. Reading
 1. Volunteering
+
+---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zbtbwNph-8mA-TtX4C-O5RtfPs6GN9nSSv5mfoPEwZw&cl=ffffff&w=a"></script>
 

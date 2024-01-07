@@ -50,18 +50,18 @@ Submitted Papers
 
 Awards
 ======
-* **National Scholarship** for Postgraduates, 2023
-* **Shenzhen Excellent Academic Paper Award**, 2023
-* **Samsung Scholarship** (Only one person is selected in the school), 2022
-* **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
+1. **National Scholarship** for Postgraduates, 2023
+1. **Shenzhen Excellent Academic Paper Award**, 2023
+1. **Samsung Scholarship** (Only one person is selected in the school), 2022
+1. **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 
 
 Academic Services
 ======
-* Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
-* Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
-* Reviewer for Scientific Reports
-* Reviewer for IEEE Access
+1. * Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
+1. * Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+1. * Reviewer for Scientific Reports
+1. * Reviewer for IEEE Access
 
   
 Teaching

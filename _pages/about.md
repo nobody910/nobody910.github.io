@@ -93,5 +93,7 @@ Hobbies
 1. Reading
 1. Volunteering
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zbtbwNph-8mA-TtX4C-O5RtfPs6GN9nSSv5mfoPEwZw&cl=ffffff&w=a"></script>
+
 
 

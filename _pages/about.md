@@ -10,6 +10,8 @@ redirect_from:
 
 I'm pursuing a master's degree with the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng. degree in 2021. My research is supervised by Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
 
+I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (liush235@mail2.sysu.edu.cn), Wechat (nobody-910), or any other convenient means of communication!
+
 My **research interests** include, but are not limited to: 
 * Artificial Intelligence (AI)
 * Machine Learning

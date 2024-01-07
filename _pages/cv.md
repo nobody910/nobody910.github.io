@@ -58,10 +58,10 @@ Awards
 
 Academic Services
 ======
-1. * Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
-1. * Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
-1. * Reviewer for Scientific Reports
-1. * Reviewer for IEEE Access
+1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
+1. Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+1. Reviewer for Scientific Reports
+1. Reviewer for IEEE Access
 
   
 Teaching

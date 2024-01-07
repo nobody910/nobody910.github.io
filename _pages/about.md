@@ -68,30 +68,30 @@ Submitted Papers
 
 Awards
 ======
-1. * **National Scholarship** for Postgraduates, 2023
-1. * **Shenzhen Excellent Academic Paper Award**, 2023
-1. * **Samsung Scholarship** (Only one person is selected in the school), 2022
-1. * **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
+1. **National Scholarship** for Postgraduates, 2023
+1. **Shenzhen Excellent Academic Paper Award**, 2023
+1. **Samsung Scholarship** (Only one person is selected in the school), 2022
+1. **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 
 
 Academic Services
 ======
-1. * Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
-1. * Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
-1. * Reviewer for Scientific Reports
-1. * Reviewer for IEEE Access
+1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
+1. Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+1. Reviewer for Scientific Reports
+1. Reviewer for IEEE Access
 
 Teaching Experience
 ======
-1. * Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2022/23 Spring 
-1. * Teaching Assistant for **Traffic Information Engineering**, PG Level, 2022/23 Spring
-1. * Teaching Assistant for **Network and Communication Principles**, UG Level, 2022/23 Fall
-1. * Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2021/22 Spring
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2022/23 Spring 
+1. Teaching Assistant for **Traffic Information Engineering**, PG Level, 2022/23 Spring
+1. Teaching Assistant for **Network and Communication Principles**, UG Level, 2022/23 Fall
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2021/22 Spring
 
 Hobbies
 ======
-1. * Reading
-1. * Volunteering
+1. Reading
+1. Volunteering
 
 
 

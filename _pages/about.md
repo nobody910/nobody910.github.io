@@ -83,7 +83,7 @@ Submitted Papers
 Awards
 ======
 1. **National Scholarship** for Postgraduates, 2023
-1. **Shenzhen Excellent Academic Paper Award**, 2023
+1. **Shenzhen Excellent Academic Paper Award**, 2023 <br/><img src='/images/about/shenzhen excellent paper.png' width= "500">
 1. **Samsung Scholarship** (Only one person is selected in the school), 2022
 1. **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
 

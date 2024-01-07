@@ -25,6 +25,15 @@ and their applications in:
 
 **<font color=green>I'm looking for a PhD position in these fields.</font>**
 
+---
+
+News
+======
+1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"] (https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
+1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"] (https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
+1. [Oct. 2023] I am honored to receive the <font color=green>National Scholarship for Postgraduates</font>!
+1. [Oct. 2023] My conference paper titled "FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning" is accepted by <font color=green>EAI MobiQuitous</font>! 
+
 Project Experience
 ======
 * **Research and Application of Asynchronous Federated Learning Model for 5G Heterogeneous Intelligent Terminal Collaboration** 

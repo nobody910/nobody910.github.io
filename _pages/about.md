@@ -53,6 +53,7 @@ Project Experience
 
 Publications
 ======
+1. **Liu S**, You L, Zhu, R, Liu, B, Liu, R, Yu, H, and Yuen, C. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection, IEEE Transactions on Intelligent Transportation Systems, 2023. (Accepted, JCR Q1, IF 8.5)
 1. You L (Advisor),  **Liu S**, Wang T, Zuo B, Chang Y, and Yuen C. [AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining](https://ieeexplore.ieee.org/document/10316646)[J], IEEE Transactions on Knowledge and Data Engineering, 2023. (JCR Q1, CCF-A, IF 8.9)
 
 1. You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V. [Federated and Asynchronized Learning for Autonomous and Intelligent Things](https://ieeexplore.ieee.org/document/10274563)[J], IEEE Network, 2023. (JCR Q1, IF 9.3) 

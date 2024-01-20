@@ -76,11 +76,6 @@ Publications
 
 1. Guo Z, You L (Advisor), **Liu S**, He J, and Zuo B. [ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection](https://www.mdpi.com/2227-7390/11/8/1867)[J]. Mathematics, 2023, 11(8): 1867. (JCR Q1, IF 2.4)
 
----
-
-Submitted Papers
-======
-1. **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
 
 ---
 

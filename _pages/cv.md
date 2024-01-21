@@ -41,10 +41,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Submitted Papers
-======
-[1] **Liu S**, et al. AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection. 
-
 
 
 

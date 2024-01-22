@@ -13,7 +13,7 @@ I'm pursuing a master's degree with the School of  Intelligent Systems Engineeri
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (liush235@mail2.sysu.edu.cn), Wechat (nobody-910), or any other convenient means of communication!
 
 My **research interests** include, but are not limited to: 
-* Artificial Intelligence (AI)
+* Trustworthy Artificial Intelligence (AI)
 * Machine Learning
 * Federated Learning (FL)
 * Meta-learning

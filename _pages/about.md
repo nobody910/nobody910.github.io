@@ -22,6 +22,7 @@ and their applications in:
 * Smart Cities 
 * Intelligent Transportation Systems (ITS) 
 * Internet of Things (IoT)
+
 ---
 
 News

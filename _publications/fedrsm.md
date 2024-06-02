@@ -7,6 +7,8 @@ date: 2023-09-08
 venue: 'IEEE International Conference on Trust, Security and Privacy in Computing and Communications'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10538768'
 
+citation: 'G Chen, S Liu, X Yang, T Wang, L You, and F Xia, "FedRSM: Representational-Similarity-Based Secured Model Uploading for Federated Learning", IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 189-196, Nov, 2023, doi: 10.1109/TrustCom60117.2023.00046.'
+
 ---
 
 [Download paper here](http://nobody910.github.io/files/FedRSM.pdf)

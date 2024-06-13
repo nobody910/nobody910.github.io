@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing a master's degree with the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng. degree in 2021. My research is supervised by Associate Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
+I will soon receive a master's degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng. degree in 2021. My research is supervised by Associate Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
 
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (liush235@mail2.sysu.edu.cn), Wechat (nobody-910), or any other convenient means of communication!
 
@@ -27,6 +27,7 @@ and their applications in:
 
 News
 ======
+1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
 1. [Jan. 2024] My journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
 1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
 1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"](https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!

@@ -66,6 +66,7 @@ Publications
 
 Awards
 ======
+1. **Outstanding Graduate** of Sun Yat-sen University, 2024
 1. **National Scholarship** for Postgraduates, 2023
 1. **Shenzhen Excellent Academic Paper Award**, 2023 <br/><img src='/images/about/shenzhen excellent paper.png' width= "500">
 1. **Samsung Scholarship** (Only one person is selected in the school), 2022
@@ -75,6 +76,7 @@ Awards
 
 Academic Services
 ======
+1. Reviewer for IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS**)
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
 1. Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
 1. Reviewer for Scientific Reports

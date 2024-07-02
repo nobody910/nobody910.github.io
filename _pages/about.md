@@ -1,4 +1,5 @@
 ---
+
 permalink: /
 title: "Hi, I'm Sheng Liu (刘晟)"
 excerpt: "About me"
@@ -6,27 +7,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
-I will soon receive a master's degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/), China, where I completed my B.Eng. degree in 2021. My research is supervised by Associate Prof. [Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm) in [IS-LAB](https://www.intsys-lab.com/#/). 
+I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden. I am supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
 
-I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (liush235@mail2.sysu.edu.cn), Wechat (nobody-910), or any other convenient means of communication!
+I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email shengliu@kth.se), Wechat (nobody-910), or any other convenient means of communication!
 
 My **research interests** include, but are not limited to: 
-* Trustworthy Artificial Intelligence (AI)
-* Federated Learning (FL)
-* Meta-learning
-* Data Mining
-
-and their applications in: 
-* Smart Cities 
-* Intelligent Transportation Systems (ITS) 
-* Internet of Things (IoT)
+* artificial intelligence
+* federated learning
+* security and privacy in smart cities
 
 ---
 
 News
 ======
+1. [Jul. 2024] I arrive at KTH, Stockholm, Sweden, as a predoctoral researcher. A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
 1. [Jan. 2024] My journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
 1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
@@ -86,10 +83,10 @@ Academic Services
 
 Teaching Experience
 ======
-1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2022/23 Spring 
-1. Teaching Assistant for **Traffic Information Engineering**, PG Level, 2022/23 Spring
-1. Teaching Assistant for **Network and Communication Principles**, UG Level, 2022/23 Fall
-1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, 2021/22 Spring
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, 2022/23 Spring 
+1. Teaching Assistant for **Traffic Information Engineering**, PG Level, Sun Yat-sen University, 2022/23 Spring
+1. Teaching Assistant for **Network and Communication Principles**, UG Level, Sun Yat-sen University, 2022/23 Fall
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, 2021/22 Spring
 
 ---
 

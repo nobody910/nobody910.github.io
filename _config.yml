@@ -19,7 +19,7 @@ google_analytics: G-T9ZKL7KSJL
 #</script>
 
 # Site Settings
-locale                   : "Shenzhen-China"
+locale                   : "Stockholm-Sweden"
 title                    : "Sheng Liu's Website"
 title_separator          : "-"
 name                     : &name "Sheng Liu"
@@ -95,12 +95,12 @@ analytics:
 author:
   name             : "Sheng Liu"
   avatar           : "sheng.png"
-  bio              : "Master Degree Candidate, School of Intelligent Systems Engineering, Sun Yat-sen University (SYSU)"
-  location         : "Shenzhen, China"
+  bio              : "PhD student, Networked Systems Security (NSS) group, KTH Royal Institute of Technology"
+  location         : "Stockholm, Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wyLb8FwAAAAJ&hl"
-  email            : "liush235@mail2.sysu.edu.cn"
+  email            : "shengliu@kth.se"
   researchgate     : "https://www.researchgate.net/profile/Liu_Sheng13"
   uri              :
   bitbucket        :

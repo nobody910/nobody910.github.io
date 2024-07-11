@@ -10,9 +10,11 @@ redirect_from:
 
 ---
 
-I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden. I am supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). I am also affiliated with [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
+I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). My KTH profile is [here](https://www.kth.se/profile/shengliu/). I am also affiliated with [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. 
 
-I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email shengliu@kth.se), Wechat (nobody-910), or any other convenient means of communication!
+I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
+
+I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
 My **research interests** include, but are not limited to: 
 * artificial intelligence

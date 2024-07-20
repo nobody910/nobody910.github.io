@@ -14,7 +14,7 @@ I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.
 
 I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
 
-I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to reach out to me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
+I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to contact me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
 My **research interests** include, but are not limited to: 
 * artificial intelligence
@@ -31,7 +31,7 @@ News
 1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
 1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"](https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
 1. [Oct. 2023] I am honored to receive the <font color=green>National Scholarship for Postgraduates</font>!
-1. [Oct. 2023] My conference paper titled "FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning" is accepted by <font color=green>EAI MobiQuitous</font>! 
+1. [Oct. 2023] My conference paper titled ["FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning"](https://link.springer.com/chapter/10.1007/978-3-031-63989-0_12) is accepted by <font color=green>EAI MobiQuitous</font>! 
 
 ---
 
@@ -46,7 +46,7 @@ Publications
 
 1.  **Liu S**, Chen Q, and You L. [Fed2A: Federated Learning Mechanism in Asynchronous and Adaptive Modes](https://www.mdpi.com/2079-9292/11/9/1393)[J]. Electronics, 2022, 11(9): 1393. (JCR Q2, IF 2.9)
 
-1. **Liu S**, Zhou Y, and You L. FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning[C]// EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), 2023. (Accepted, CCF-C, Presenter)
+1. **Liu S**, Zhou Y, and You L. [FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning](https://link.springer.com/chapter/10.1007/978-3-031-63989-0_12)[C]// EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), 2023: 239-256. (CCF-C, Presenter)
 
 1. **Liu S**, Qu H, Chen Q, Jian W, Liu R, and You L. [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation](https://ieeexplore.ieee.org/document/10189596)[C]// IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022: 641-648. (CCF-C, 17.9% acceptance rate, Presenter)
 

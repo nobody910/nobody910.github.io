@@ -25,7 +25,7 @@ My **research interests** include, but are not limited to:
 
 News
 ======
-1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a predoctoral researcher at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
+1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
 1. [Jan. 2024] My journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
 1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!

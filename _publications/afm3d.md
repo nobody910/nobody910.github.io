@@ -7,7 +7,7 @@ date: 2024-01-19
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/10423999'
 
-citation: 'S Liu, L You, R Zhu, B Liu, R Liu, H Yu, and C Yuen, "AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection", IEEE Transactions on Intelligent Transportation Systems, Jan, 2024, doi: 10.1109/TITS.2024.3357138.'
+citation: 'S Liu, L You, R Zhu, B Liu, R Liu, H Yu, and C Yuen, "AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8 pp. 9659-9674, Aug 2024, doi: 10.1109/TITS.2024.3357138.'
 
 ---
 

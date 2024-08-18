@@ -6,6 +6,7 @@ excerpt: ''
 date: 2023-10-11
 venue: 'EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-63989-0_12'
+citation: 'S Liu, L You, and Y Zhou, "FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning", EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, 239-256, Jul 2024, doi: 10.1007/978-3-031-63989-0_12.'
 
 ---
 

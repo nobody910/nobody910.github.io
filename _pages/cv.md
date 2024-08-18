@@ -20,6 +20,10 @@ Education
   * Advisor: [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
   * Thesis Title: Research of Asynchronous Federated Learning Mechanism for Driver Distraction Detection
 
+* **Doctoral's Degree** in KTH, July. 2024 - Now
+  * Major: Information and Communication Technology
+  * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
+
 Project Experience
 ======
 * **Research and Application of Asynchronous Federated Learning Model for 5G Heterogeneous Intelligent Terminal Collaboration** 

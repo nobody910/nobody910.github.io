@@ -25,7 +25,7 @@ My **research interests** include, but are not limited to:
 
 News
 ======
-1. [Jul. 2024] I arrive at KTH, Stockholm, Sweden, as a predoctoral researcher at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
+1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a predoctoral researcher at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
 1. [Jan. 2024] My journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
 1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
@@ -37,11 +37,11 @@ News
 
 Publications
 ======
-1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024. (JCR Q1, IF 8.5)
+1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024, 25(8): 9659-9674. (JCR Q1, IF 8.5)
 
 1. You L (Advisor),  **Liu S**, Wang T, Zuo B, Chang Y, and Yuen C. [AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining](https://ieeexplore.ieee.org/document/10316646)[J], IEEE Transactions on Knowledge and Data Engineering, 2023. (JCR Q1, CCF-A, IF 8.9)
 
-1. You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V. [Federated and Asynchronized Learning for Autonomous and Intelligent Things](https://ieeexplore.ieee.org/document/10274563)[J], IEEE Network, 38(2): 286-293, 2024. (JCR Q1, IF 9.3) 
+1. You L (Advisor),  **Liu S**, Zuo B, Yuen C, Niyato D, and Poor H. V. [Federated and Asynchronized Learning for Autonomous and Intelligent Things](https://ieeexplore.ieee.org/document/10274563)[J], IEEE Network, 2024, 38(2): 286-293. (JCR Q1, IF 9.3) 
 
 1. You L (Advisor), **Liu S**, Chang Y, and Yuen C. [A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement](https://ieeexplore.ieee.org/abstract/document/9815310)[J]. IEEE Internet of Things Journal, 2022, 9(23): 24199-24211. (JCR Q1, IF 10.6, Shenzhen Excellent Academic Paper Award)
 

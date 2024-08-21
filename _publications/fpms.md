@@ -8,7 +8,7 @@ venue: 'COTA International Conference of Transportation Professionals'
 
 paperurl: 'https://ascelibrary.org/doi/abs/10.1061/9780784484265.003'
 
-citation: 'J He, Z Deng, S Liu, L You, M Zhou, M Cai, and S Cheng, "Federated Architecture for Personal Mobility Service in Autonomous Transportation System",COTA International Conference of Transportation Professionals, Jul, 2022: 23-33, doi: 10.1061/9780784484265.003.'
+citation: 'J He, Z Deng, S Liu, L You, M Zhou, M Cai, and S Cheng, "Federated Architecture for Personal Mobility Service in Autonomous Transportation System",COTA International Conference of Transportation Professionals, Jul 2022: 23-33, doi: 10.1061/9780784484265.003.'
 ---
 
 [Download paper here](http://nobody910.github.io/files/FPMS.pdf)

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-04-27
 venue: 'Electronics'
 paperurl: 'https://www.mdpi.com/2079-9292/11/9/1393'
-citation: 'S Liu, Q Chen, and L You, "Fed2A: Federated Learning Mechanism in Asynchronous and Adaptive Modes", Electronics, 11(9):1393, Apr, 2022, doi: 10.3390/electronics11091393.'
+citation: 'S Liu, Q Chen, and L You, "Fed2A: Federated Learning Mechanism in Asynchronous and Adaptive Modes", Electronics, 11(9):1393, Apr 2022, doi: 10.3390/electronics11091393.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 

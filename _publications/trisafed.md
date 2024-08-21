@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-05
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9815310'
-citation: 'L. You, S. Liu, Y. Chang and C. Yuen, "A Triple-Step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement," IEEE Internet of Things Journal, vol. 9, no. 23, pp. 24199-24211, Dec, 2022, doi: 10.1109/JIOT.2022.3188556.'
+citation: 'L. You, S. Liu, Y. Chang and C. Yuen, "A Triple-Step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement," IEEE Internet of Things Journal, vol. 9, no. 23, pp. 24199-24211, Dec 2022, doi: 10.1109/JIOT.2022.3188556.'
 ---
 
 [Download paper here](http://nobody910.github.io/files/TrisaFed.pdf)

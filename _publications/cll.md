@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-19
 venue: 'International Conference on Knowledge Science, Engineering and Management'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13'
-citation: 'H Qu, S Liu, Z Guo, L You, and J Li, "Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn", International Conference on Knowledge Science, Engineering and Management, 159-172, Jul, 2022, doi: 10.1007/978-3-031-10983-6_13.'
+citation: 'H Qu, S Liu, Z Guo, L You, and J Li, "Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn", International Conference on Knowledge Science, Engineering and Management, 159-172, Jul 2022, doi: 10.1007/978-3-031-10983-6_13.'
 ---
 
 

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-06-12
 venue: 'Mathematics'
 paperurl: 'https://www.mdpi.com/2227-7390/10/12/2039'
-citation: 'H Qu, S Liu, J Li, Y Zhou, and R Liu, "Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction", Mathematics, 10(12):2039, Jun, 2022, doi: 10.3390//math10122039.'
+citation: 'H Qu, S Liu, J Li, Y Zhou, and R Liu, "Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction", Mathematics, 10(12):2039, Jun 2022, doi: 10.3390//math10122039.'
 ---
 
 [Download paper here](http://nobody910.github.io/files/ALL.pdf)

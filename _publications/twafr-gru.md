@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-12-15
 venue: 'IEEE International Conference on Ubiquitous Intelligence and Computing'
 paperurl: 'https://ieeexplore.ieee.org/document/10189531'
-citation: 'Q Chen, S Liu, H Qu, R Zhu, and L You, "TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction", IEEE International Conference on Ubiquitous Intelligence and Computing, 1611-1618, Dec, 2022, doi: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00233.'
+citation: 'Q Chen, S Liu, H Qu, R Zhu, and L You, "TWAFR-GRU: An Integrated Model for Real-Time Charging Station Occupancy Prediction", IEEE International Conference on Ubiquitous Intelligence and Computing, 1611-1618, Dec 2022, doi: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00233.'
 ---
 
 [Download paper here](http://nobvody910.github.io/files/TWAFR.pdf)

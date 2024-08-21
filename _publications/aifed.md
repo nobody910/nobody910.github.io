@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-11-11
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 paperurl: 'https://ieeexplore.ieee.org/document/10316646'
-citation: 'L You, S Liu, T Wang, B Zuo, Y Chang, and C Yuen, "AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining", IEEE Transactions on Knowledge and Data Engineering, Nov, 2023, doi: 10.1109/TKDE.2023.3332770.'
+citation: 'L You, S Liu, T Wang, B Zuo, Y Chang, and C Yuen, "AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining", IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 9, pp. 4411-4427, Sep 2024, doi: 10.1109/TKDE.2023.3332770.'
 
 ---
 

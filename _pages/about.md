@@ -16,10 +16,10 @@ I received my master's degree and my B.Eng. degree from the School of  Intellige
 
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to contact me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
-My **research interests** include, but are not limited to: 
-* artificial intelligence
+My current **research interests** focus on the intersection between: 
 * federated learning
-* security and privacy in smart cities
+* autonomous driving
+* security and privacy
 
 ---
 

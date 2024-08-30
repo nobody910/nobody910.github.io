@@ -18,7 +18,7 @@ I'm always delighted to collaborate, discuss, chat, and learn from different min
 
 My current **research interests** focus on the intersection between: 
 * federated learning
-* autonomous driving
+* autonomous systems
 * security and privacy
 
 ---

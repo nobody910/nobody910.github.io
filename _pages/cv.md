@@ -9,21 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+Employment 
+======
+* **Predoctoral Researcher** in KTH Royal Institute of Technology, Sweden, July. 2024 - Now  
+   * My KTH profile: https://www.kth.se/profile/shengliu/
+
+
 Education
 ======
-* **Bachelor's Degree** in the School of Intelligent Systems Engineering, Sun Yat-sen University, China, Sep. 2017 - Jun. 2021
-  * Major: Traffic Engineering
-  * Minor: Logic
+* **Bachelor's Degree** in Sun Yat-sen University, China, Sep. 2017 - Jun. 2021
+  * Major: Traffic Engineering, School of Intelligent Systems Engineering
+  * Minor: Logic, Department of Philosophy
   * Thesis Title: Fatigue Driving Detection Algorithm Based on Federated Learning and Multi-source Heterogeneous Data, supervised by [Associate Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm)
 
-* **Master's Degree** in the School of Intelligent Systems Engineering, Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
-  * Major: Traffic Information Engineering & Control
+* **Master's Degree** in Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
+  * Major: Traffic Information Engineering & Control, School of Intelligent Systems Engineering
   * Advisor: [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
   * Thesis Title: Research of Asynchronous Federated Learning Mechanism for Driver Distraction Detection
 
-* **Doctoral's Degree** in the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Sweden, July. 2024 - Now
-  * Major: Information and Communication Technology
+* **Doctoral's Degree** in KTH Royal Institute of Technology, Sweden, July. 2024 - Now  KTH profile is [here](https://www.kth.se/profile/shengliu/)
+  * Major: Information and Communication Technology, Division of Software and Computer Systems
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
+
 
 Project Experience
 ======

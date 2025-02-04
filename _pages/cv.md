@@ -67,16 +67,18 @@ Awards
 
 Academic Services
 ======
+1. Reviewer for IEEE Transactions on Mobile Computing (**IEEE TMC**)
 1. Reviewer for International Conference on Learning Representations (**ICLR**)
+1. Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 1. Reviewer for IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS**)
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
 1. Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 1. Reviewer for Cluster Computing
 1. Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
 1. Reviewer for The Journal of Supercomputing (**TJSC**)
+1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
-
   
 Teaching
 ======

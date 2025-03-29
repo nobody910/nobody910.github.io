@@ -27,11 +27,11 @@ News
 ======
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
-1. [Jan. 2024] My journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
-1. [Nov. 2023] My journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
-1. [Nov. 2023] My journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"](https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
+1. [Jan. 2024] Our journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
+1. [Nov. 2023] Our journal paper titled ["AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining"](https://ieeexplore.ieee.org/document/10316646) is accepted by <font color=green>IEEE TKDE</font>!
+1. [Nov. 2023] Our journal paper titled ["A Triple-step Asynchronous Federated Learning Mechanism for Client Activation, Interaction Optimization, and Aggregation Enhancement"](https://ieeexplore.ieee.org/abstract/document/9815310) published in IEEE IoTJ is selected as the <font color=green>Shenzhen 3rd Excellent Science & Technology Academic Paper</font>!
 1. [Oct. 2023] I am honored to receive the <font color=green>National Scholarship for Postgraduates</font>!
-1. [Oct. 2023] My conference paper titled ["FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning"](https://link.springer.com/chapter/10.1007/978-3-031-63989-0_12) is accepted by <font color=green>EAI MobiQuitous</font>! 
+1. [Oct. 2023] Our conference paper titled ["FedRC: Representational Consistency Guided Model Uploading Mechanism for Asynchronous Federated Learning"](https://link.springer.com/chapter/10.1007/978-3-031-63989-0_12) is accepted by <font color=green>EAI MobiQuitous</font>! 
 
 ---
 
@@ -83,6 +83,7 @@ Academic Services
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
 1. Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 1. Reviewer for Cluster Computing
+1. Reviewer for Applied Network Science
 1. Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
 1. Reviewer for The Journal of Supercomputing (**TJSC**)
 1. Reviewer for PLOS ONE

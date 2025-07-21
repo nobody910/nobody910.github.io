@@ -27,7 +27,7 @@ Education
   * Advisor: [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
   * Thesis Title: Research of Asynchronous Federated Learning Mechanism for Driver Distraction Detection
 
-* **Doctoral's Degree** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  KTH profile is [here](https://www.kth.se/profile/shengliu/)
+* **Doctoral Degree** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  KTH profile is [here](https://www.kth.se/profile/shengliu/)
   * Major: Information and Communication Technology, Division of Software and Computer Systems
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
 

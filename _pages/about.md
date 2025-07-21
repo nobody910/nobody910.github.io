@@ -25,7 +25,7 @@ My current **research interests** focus on the intersection between:
 
 News
 ======
-1. [Jul. 2025] Our conference paper titled "Safeguarding Federated Learning-based Road Condition Classification" is accepted by <font color=green>IEEE CNS</font>!
+1. [Jul. 2025] Our conference paper titled ["Safeguarding Federated Learning-based Road Condition Classification"](https://arxiv.org/abs/2507.12568) is accepted by <font color=green>IEEE CNS</font>!
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
 1. [Jan. 2024] Our journal paper titled ["AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection"](https://ieeexplore.ieee.org/document/10423999) is accepted by <font color=green>IEEE T-ITS</font>!
@@ -38,6 +38,7 @@ News
 
 Publications
 ======
+1. **Liu S** and Panos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (Accepted)
 1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024, 25(8): 9659-9674. (JCR Q1, IF 8.5)
 
 1. You L (Advisor),  **Liu S**, Wang T, Zuo B, Chang Y, and Yuen C. [AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining](https://ieeexplore.ieee.org/document/10316646)[J], IEEE Transactions on Knowledge and Data Engineering, 2024, 36(9): 4411-4427. (JCR Q1, CCF-A, IF 8.9)

@@ -75,6 +75,9 @@ Academic Services
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
 1. Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 1. Reviewer for IEEE Network
+1. Reviewer for IEEE Transactions on Vehicular Technology (**TVT**)
+1. Reviewer for Results in Engineering
+1. Reviewer for Journal of Big Data
 1. Reviewer for Cluster Computing
 1. Reviewer for Applied Network Science
 1. Reviewer for IEEE Internet of Things Journal (**IoTJ**)
@@ -82,6 +85,7 @@ Academic Services
 1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
+1. TPC Member of Artificial Intelligence Models and Systems Symposium (AIMS 2025)
 
   
 Teaching

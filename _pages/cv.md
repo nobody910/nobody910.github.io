@@ -20,7 +20,7 @@ Education
 * **Bachelor's Degree** in Sun Yat-sen University, China, Sep. 2017 - Jun. 2021
   * Major: Traffic Engineering, School of Intelligent Systems Engineering
   * Minor: Logic, Department of Philosophy
-  * Thesis Title: Fatigue Driving Detection Algorithm Based on Federated Learning and Multi-source Heterogeneous Data, supervised by [Associate Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm)
+  * Thesis Title: Fatigue Driving Detection Algorithm Based on Federated Learning and Multi-source Heterogeneous Data, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm)
 
 * **Master's Degree** in Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
   * Major: Traffic Information Engineering & Control, School of Intelligent Systems Engineering

@@ -17,9 +17,9 @@ I received my master's degree and my B.Eng. degree from the School of  Intellige
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to contact me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
 My current **research interests** focus on the intersection between: 
-* federated learning
-* autonomous systems
-* security and privacy
+* trustworthy AI (e.g., federated learning)
+* intelligent transportation (e.g., autonomous driving)
+* security and privacy (e.g., data poisoning attacks)
 
 ---
 
@@ -38,7 +38,7 @@ News
 
 Publications
 ======
-1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (Accepted)
+1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (28% acceptance rate, Presenter)
 1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024, 25(8): 9659-9674. (JCR Q1, IF 8.5)
 
 1. You L (Advisor),  **Liu S**, Wang T, Zuo B, Chang Y, and Yuen C. [AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining](https://ieeexplore.ieee.org/document/10316646)[J], IEEE Transactions on Knowledge and Data Engineering, 2024, 36(9): 4411-4427. (JCR Q1, CCF-A, IF 8.9)

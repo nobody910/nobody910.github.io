@@ -32,18 +32,6 @@ Education
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
 
 
-Project Experience
-======
-* **Research and Application of Asynchronous Federated Learning Model for 5G Heterogeneous Intelligent Terminal Collaboration** 
-  * National Natural Science Foundation for Young Scholars, Participant, 2021.09 - 2024.06
-  * Considering the heterogeneous IoT environment and the dynamic change of resources (data), I study the client selection, communication optimization, and aggregation enhancement algorithms for Asynchronous Federated Learning (AFL) based on the Deep Neural Networks (DNNs) and information theory to improve model performance and learning efficiency significantly.
-
-* **Research of Autonomous Transportation System Architecture** 
-  * National Key R&D Program, Participant, 2021.09 - 2024.06
-  * Towards the data islands and personalization demands, I build an asynchronous federated meta-learning framework for efficient collaboration in smart mobility scenarios. Such that, a meta-model with rapid adaptation ability can be trained to realize high-performing charging station occupancy prediction and driver distraction detection.
-
-
-
 
 
 

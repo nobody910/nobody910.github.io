@@ -118,7 +118,7 @@ Hobbies
 
 ---
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zbtbwNph-8mA-TtX4C-O5RtfPs6GN9nSSv5mfoPEwZw"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zbtbwNph-8mA-TtX4C-O5RtfPs6GN9nSSv5mfoPEwZw&cl=ffffff&w=a"></script>
 
 
 

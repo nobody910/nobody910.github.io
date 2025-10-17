@@ -64,9 +64,11 @@ Academic Services
 1. Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 1. Reviewer for IEEE Network
 1. Reviewer for IEEE Transactions on Vehicular Technology (**TVT**)
+1. Reviewer for ACM Transactions on Internet of Things (**TIOT**)
 1. Reviewer for Results in Engineering
 1. Reviewer for Journal of Big Data
 1. Reviewer for Cluster Computing
+1. Reviewer for Pervasive and Mobile Computing
 1. Reviewer for Applied Network Science
 1. Reviewer for IEEE Internet of Things Journal (**IoTJ**)
 1. Reviewer for The Journal of Supercomputing (**TJSC**)

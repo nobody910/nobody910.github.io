@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). My KTH profile is [here](https://www.kth.se/profile/shengliu/). I am funded by [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. 
+I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). I am funded by [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. 
 
 I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
 

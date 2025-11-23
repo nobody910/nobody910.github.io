@@ -25,6 +25,8 @@ My current **research interests** focus on the intersection between:
 
 News
 ======
+1. [Nov. 2025] Our conference paper titled "DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification" is accepted by <font color=green>ACM SAC</font>!
+
 1. [Jul. 2025] Our conference paper titled ["Safeguarding Federated Learning-based Road Condition Classification"](https://ieeexplore.ieee.org/document/11194922) is accepted by <font color=green>IEEE CNS</font>!
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
@@ -79,6 +81,7 @@ Awards
 Academic Services
 ======
 1. Reviewer for IEEE Transactions on Information Forensics and Security (**TIFS**)
+1. Reviewer for IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 1. Reviewer for IEEE Transactions on Mobile Computing (**TMC**)
 1. Reviewer for International Conference on Learning Representations (**ICLR**)
 1. Reviewer for IEEE Transactions on Industrial Informatics (**TII**)

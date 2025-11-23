@@ -56,6 +56,7 @@ Awards
 Academic Services
 ======
 1. Reviewer for IEEE Transactions on Information Forensics and Security (**TIFS**)
+1. Reviewer for IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 1. Reviewer for IEEE Transactions on Mobile Computing (**TMC**)
 1. Reviewer for International Conference on Learning Representations (**ICLR**)
 1. Reviewer for IEEE Transactions on Industrial Informatics (**TII**)

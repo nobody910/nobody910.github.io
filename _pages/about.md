@@ -40,7 +40,10 @@ News
 
 Publications
 ======
+1. **Liu S** and Papadimitratos P. DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification[C]//ACM/SIGAPP Symposium On Applied Computing (SAC), 2026. Accepted)
+
 1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (28% acceptance rate, Presenter)
+
 1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024, 25(8): 9659-9674. (JCR Q1, IF 8.5)
 
 1. You L (Advisor),  **Liu S**, Wang T, Zuo B, Chang Y, and Yuen C. [AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining](https://ieeexplore.ieee.org/document/10316646)[J], IEEE Transactions on Knowledge and Data Engineering, 2024, 36(9): 4411-4427. (JCR Q1, CCF-A, IF 8.9)

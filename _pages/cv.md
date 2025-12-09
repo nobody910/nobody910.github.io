@@ -76,7 +76,7 @@ Academic Services
 1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
-1. TPC Member of Artificial Intelligence Models and Systems Symposium (**AIMS 2025**)
+1. TPC Member of Artificial Intelligence Models and Systems Symposium (**[AIMS 2025](https://aims-conference.ai/2025/organizing-committee)**)
 
   
 Teaching

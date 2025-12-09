@@ -25,7 +25,7 @@ My current **research interests** focus on the intersection between:
 
 News
 ======
-1. [Nov. 2025] Our conference paper titled "DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification" is accepted by <font color=green>ACM SAC</font>!
+1. [Nov. 2025] Our conference paper titled ["DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification"](https://arxiv.org/abs/2512.06172) is accepted by <font color=green>ACM SAC</font>!
 
 1. [Jul. 2025] Our conference paper titled ["Safeguarding Federated Learning-based Road Condition Classification"](https://ieeexplore.ieee.org/document/11194922) is accepted by <font color=green>IEEE CNS</font>!
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [School of Electrical Engineering and Computer Science (EECS)](https://www.kth.se/en/eecs). A new journey!
@@ -104,7 +104,7 @@ Academic Services
 1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
-1. TPC Member of Artificial Intelligence Models and Systems Symposium (**AIMS 2025**)
+1. TPC Member of Artificial Intelligence Models and Systems Symposium (**[AIMS 2025](https://aims-conference.ai/2025/organizing-committee)**)
 
 ---
 

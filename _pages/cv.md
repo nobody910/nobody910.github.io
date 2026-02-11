@@ -24,11 +24,11 @@ Education
 
 * **Master's Degree** in Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
   * Major: Traffic Information Engineering & Control, School of Intelligent Systems Engineering
-  * Advisor: [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
+  * Advisor: [Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
   * Thesis Title: Research of Asynchronous Federated Learning Mechanism for Driver Distraction Detection
 
 * **Doctoral Degree** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  KTH profile is [here](https://www.kth.se/profile/shengliu/)
-  * Major: Information and Communication Technology, Division of Software and Computer Systems
+  * Major: Information and Communication Technology, Department of Computing and Learning Systems (CLS)
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
 
 
@@ -62,6 +62,7 @@ Academic Services
 1. Reviewer for IEEE Transactions on Industrial Informatics (**TII**)
 1. Reviewer for IEEE Transactions on Parallel and Distributed Systems (**TPDS**)
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+1. Reviewer for IEEE Transactions on Intelligent Transportation Systems (**T-ITS**)
 1. Reviewer for Engineering Applications of Artificial Intelligence (**EAAI**)
 1. Reviewer for IEEE Network
 1. Reviewer for IEEE Transactions on Vehicular Technology (**TVT**)

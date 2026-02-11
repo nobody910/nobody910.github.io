@@ -12,7 +12,7 @@ redirect_from:
 Employment 
 ======
 * **Predoctoral Researcher** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
-   * KTH profile: [Here](https://www.kth.se/profile/shengliu/)
+   * KTH Profile: [Here](https://www.kth.se/profile/shengliu/)
 
 
 Education
@@ -30,7 +30,7 @@ Education
 * **Doctoral Degree** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
   * Major: Information and Communication Technology, Department of Computing and Learning Systems (CLS)
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
-  * KTH profile: [Here](https://www.kth.se/profile/shengliu/)
+  * KTH Profile: [Here](https://www.kth.se/profile/shengliu/)
 
 
 

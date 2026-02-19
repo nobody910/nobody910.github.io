@@ -40,7 +40,7 @@ News
 
 Publications
 ======
-1. **Liu S** and Papadimitratos P. DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification[C]//ACM/SIGAPP Symposium On Applied Computing (SAC), 2026. Accepted)
+1. **Liu S** and Papadimitratos P. DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification[C]//ACM/SIGAPP Symposium On Applied Computing (SAC), 2026. (Accepted, 23.4% acceptance rate)
 
 1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (28% acceptance rate, Presenter)
 

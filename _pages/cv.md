@@ -56,10 +56,10 @@ Awards
 
 Academic Services
 ======
+**Journals**
 1. Reviewer for IEEE Transactions on Information Forensics and Security (**TIFS**)
 1. Reviewer for IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 1. Reviewer for IEEE Transactions on Mobile Computing (**TMC**)
-1. Reviewer for International Conference on Learning Representations (**ICLR**)
 1. Reviewer for IEEE Transactions on Industrial Informatics (**TII**)
 1. Reviewer for IEEE Transactions on Parallel and Distributed Systems (**TPDS**)
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
@@ -78,7 +78,12 @@ Academic Services
 1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
-1. TPC Member of Artificial Intelligence Models and Systems Symposium (**[AIMS 2025](https://aims-conference.ai/2025/organizing-committee)**)
+
+**Conferences**
+1. Artifact Evaluation Committee of Network and Distributed System Security (**NDSS**) Symposium 2027
+1. TPC Member of Artificial Intelligence Models and Systems Symposium (**AIMS 2025**)
+1. Reviewer for International Conference on Learning Representations (**ICLR**)
+1. Reviewer for Annual Conference on Neural Information Processing Systems (**NeurIPS**)
 
   
 Teaching

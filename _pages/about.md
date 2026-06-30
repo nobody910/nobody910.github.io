@@ -25,7 +25,7 @@ My current **research interests** focus on the intersection between:
 
 News
 ======
-1. [Jun. 2026] I arrive at [UC Berkeley](https://www.berkeley.edu/), as a <font color=green>Visiting PhD Student</font>, collaborating with [Prof. Dawn Song](https://dawnsong.io/) and [Dr. Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/)!
+1. [Jun. 2026] I arrive at [UC Berkeley](https://www.berkeley.edu/), CA, USA, as a <font color=green>Visiting PhD Student</font> collaborating with [Prof. Dawn Song](https://dawnsong.io/) and [Dr. Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/)!
 1. [Nov. 2025] Our conference paper titled ["DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification"](https://dl.acm.org/doi/10.1145/3748522.3779807) is accepted by <font color=green>ACM SAC</font>!
 1. [Jul. 2025] Our conference paper titled ["Safeguarding Federated Learning-based Road Condition Classification"](https://ieeexplore.ieee.org/document/11194922) is accepted by <font color=green>IEEE CNS</font>!
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [Department of Computing and Learning Systems (CLS)](https://www.kth.se/cls). A new journey!

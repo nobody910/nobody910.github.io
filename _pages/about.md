@@ -25,8 +25,8 @@ My current **research interests** focus on the intersection between:
 
 News
 ======
-1. [Nov. 2025] Our conference paper titled ["DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification"](https://arxiv.org/abs/2512.06172) is accepted by <font color=green>ACM SAC</font>!
-
+1. [Jun. 2026] I arrive at [UC Berkeley](https://www.berkeley.edu/), as a <font color=green>Visiting PhD Student</font>, collaborating with [Prof. Dawn Song](https://dawnsong.io/) and [Dr. Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/)!
+1. [Nov. 2025] Our conference paper titled ["DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification"](https://dl.acm.org/doi/10.1145/3748522.3779807) is accepted by <font color=green>ACM SAC</font>!
 1. [Jul. 2025] Our conference paper titled ["Safeguarding Federated Learning-based Road Condition Classification"](https://ieeexplore.ieee.org/document/11194922) is accepted by <font color=green>IEEE CNS</font>!
 1. [Jul. 2024] I arrive at [KTH](https://www.kth.se/), Stockholm, Sweden, as a <font color=green>predoctoral researcher</font> at the [Department of Computing and Learning Systems (CLS)](https://www.kth.se/cls). A new journey!
 1. [Jun. 2024] I am honored to be awarded the <font color=green>Outstanding Graduate</font> of Sun Yat-sen University!
@@ -40,9 +40,9 @@ News
 
 Publications
 ======
-1. **Liu S** and Papadimitratos P. [DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2512.06172)[C]//ACM/SIGAPP Symposium On Applied Computing (SAC), 2026. (Accepted, 23.4% acceptance rate)
+1. **Liu S** and Papadimitratos P. [DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification](https://dl.acm.org/doi/10.1145/3748522.3779807)[C]//ACM/SIGAPP Symposium On Applied Computing (SAC), 2026. (Accepted, 23.4% acceptance rate)
 
-1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org/abs/2507.12568)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (28% acceptance rate, Presenter)
+1. **Liu S** and Papadimitratos P. [Safeguarding Federated Learning-based Road Condition Classification](https://ieeexplore.ieee.org/abstract/document/11194922)[C]//IEEE Conference on Communications and Network Security (CNS), 2025. (28% acceptance rate, Presenter)
 
 1. **Liu S**, You L, Zhu R, Liu B, Liu R, Yu H, and Yuen C. [AFM3D: An Asynchronous Federated Meta-learning Framework for Driver Distraction Detection](https://ieeexplore.ieee.org/document/10423999)[J], IEEE Transactions on Intelligent Transportation Systems, 2024, 25(8): 9659-9674. (JCR Q1, IF 8.5)
 
@@ -83,10 +83,10 @@ Awards
 
 Academic Services
 ======
+**Journals**
 1. Reviewer for IEEE Transactions on Information Forensics and Security (**TIFS**)
 1. Reviewer for IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 1. Reviewer for IEEE Transactions on Mobile Computing (**TMC**)
-1. Reviewer for International Conference on Learning Representations (**ICLR**)
 1. Reviewer for IEEE Transactions on Industrial Informatics (**TII**)
 1. Reviewer for IEEE Transactions on Parallel and Distributed Systems (**TPDS**)
 1. Reviewer for IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
@@ -105,7 +105,12 @@ Academic Services
 1. Reviewer for PLOS ONE
 1. Reviewer for Scientific Reports
 1. Reviewer for IEEE Access
-1. TPC Member of Artificial Intelligence Models and Systems Symposium (**[AIMS 2025](https://aims-conference.ai/2025/organizing-committee)**)
+
+**Conferences**
+1. Artifact Evaluation Committee of Network and Distributed System Security (**NDSS**) Symposium 2027
+1. TPC Member of Artificial Intelligence Models and Systems Symposium (**AIMS 2025**)
+1. Reviewer for International Conference on Learning Representations (**ICLR**)
+1. Reviewer for Annual Conference on Neural Information Processing Systems (**NeurIPS**)
 
 ---
 

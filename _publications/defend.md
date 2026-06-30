@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/defend
 excerpt: ''
 date: 2026-03-23
-venue: 'The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)'
+venue: 'The 41st ACM/SIGAPP Symposium on Applied Computing (SAC)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3748522.3779807'
 
 citation: 'S Liu and Panos Papadimitratos, "DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification", ACM/SIGAPP Symposium on Applied Computing (SAC), pp. 1486–1495, Mar 2026, doi: 10.1145/3748522.3779807.'

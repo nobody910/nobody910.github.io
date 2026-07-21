@@ -96,6 +96,7 @@ Academic Services
 1. Reviewer for IEEE Transactions on Vehicular Technology (**TVT**)
 1. Reviewer for ACM Transactions on Internet of Things (**TIOT**)
 1. Reviewer for Results in Engineering
+1. Reviewer for Journal of Traffic and Transportation Engineering (English Edition)
 1. Reviewer for Journal of Big Data
 1. Reviewer for Cluster Computing
 1. Reviewer for Pervasive and Mobile Computing
@@ -108,6 +109,7 @@ Academic Services
 
 **Conferences**
 1. Artifact Evaluation Committee of Network and Distributed System Security (**NDSS**) Symposium 2027
+1. Poster Program Committee of ACM Conference on Computer and Communications Security (**CCS**) 2026
 1. TPC Member of Artificial Intelligence Models and Systems Symposium (**AIMS 2025**)
 1. Reviewer for International Conference on Learning Representations (**ICLR**)
 1. Reviewer for Annual Conference on Neural Information Processing Systems (**NeurIPS**)

@@ -95,6 +95,8 @@ Academic Services
 1. Reviewer for IEEE Network
 1. Reviewer for IEEE Transactions on Vehicular Technology (**TVT**)
 1. Reviewer for ACM Transactions on Internet of Things (**TIOT**)
+1. Reviewer for IEEE Transactions on Network Science and Engineering (**TNSE**)
+1. Reviewer for IEEE Transactions on Consumer Electronics (**TCE**)
 1. Reviewer for Results in Engineering
 1. Reviewer for Journal of Traffic and Transportation Engineering (English Edition)
 1. Reviewer for Journal of Big Data

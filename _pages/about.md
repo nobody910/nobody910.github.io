@@ -17,7 +17,7 @@ I received my master's degree and my B.Eng. degree from the School of  Intellige
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to contact me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
 My current **research interests** focus on the intersection between: 
-* trustworthy AI (e.g., federated learning)
+* trustworthy AI (e.g., federated learning, world models, and agentic AI)
 * intelligent transportation (e.g., autonomous driving)
 * security and privacy (e.g., data poisoning attacks)
 

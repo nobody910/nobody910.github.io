@@ -143,7 +143,7 @@ Hobbies
 
 <div align="center" style="margin-top: 3rem; margin-bottom: 1.5rem;">
   <span style="font-size: 0.85rem; color: #888; display: block; margin-bottom: 8px;">Visitor Map</span>
-  <script src="https://revolvermaps2.com/embed.js" data-site="kcuzztgsthti" data-size="300" data-theme="night" data-color="ffb23f" async></script>
+  <script src="https://revolvermaps2.com/embed.js" data-site="kcuzztgsthti" data-size="200" data-theme="blue" data-color="ffb23f" async></script>
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=XXXXXXX&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 </div>
 

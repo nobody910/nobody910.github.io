@@ -11,7 +11,7 @@ redirect_from:
 
 Employment 
 ======
-* **Predoctoral Researcher** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
+* **Predoctoral Researcher** at KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
    * KTH Profile: [Here](https://www.kth.se/profile/shengliu/)
 
 
@@ -30,7 +30,6 @@ Education
 * **Doctoral Degree** at KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
   * Major: Information and Communication Technology, Department of Computing and Learning Systems (CLS)
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
-  * KTH Profile: [Here](https://www.kth.se/profile/shengliu/)
   * Visiting PhD Student: [Prof. Dawn Song](https://dawnsong.io/)'s group at [UC Berkeley](https://www.berkeley.edu/), CA, USA, Jun. 2026 - Sep. 2026.
 
 

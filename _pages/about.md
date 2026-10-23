@@ -10,9 +10,7 @@ redirect_from:
 
 ---
 
-I am a PhD student in [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). I am funded by [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. 
-
-I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China, in 2024 and 2021, respectively. 
+I am a PhD student in the [Networked Systems Security (NSS) Group](https://nss.proj.kth.se/) and the [Department of Computing and Learning Systems (CLS)](https://www.kth.se/cls). at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, supervised by [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/). I am funded by [WASP](https://wasp-sweden.org/), i.e., Wallenberg AI, Autonomous Systems and Software Program. I was a visiting PhD student in [Prof. Dawn Song](https://dawnsong.io/)'s group at [UC Berkeley](https://www.berkeley.edu/), CA, USA. I received my master's degree and my B.Eng. degree from the School of  Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), China. 
 
 I'm always delighted to collaborate, discuss, chat, and learn from different minds! So please feel free to contact me via email (shengliu@kth.se), WeChat (nobody-910), or any other convenient means of communication!
 
@@ -77,7 +75,7 @@ Awards
 1. **National Scholarship** for Postgraduates, 2023
 1. **Shenzhen Excellent Academic Paper Award**, 2023 <br/><img src='/images/about/shenzhen excellent paper.png' width= "500">
 1. **Samsung Scholarship** (Only one person is selected in the school), 2022
-1. **Guangdong Guangda Scholarship** (Only five persons are selected in the school), 2021
+1. **Guangdong Guangda Scholarship** (Only five people are selected in the school), 2021
 
 ---
 
@@ -120,13 +118,14 @@ Academic Services
 
 Teaching Experience
 ======
-1. Teaching Assistant for [EP2510 Advanced Networked Systems Security](https://www.kth.se/student/kurser/kurs/EP2510), PG Level, KTH, Sweden, 2025 Fall [Course web](https://www.kth.se/social/course/EP2510/)
-1. Teaching Assistant for [EP2500 Networked Systems Security](https://www.kth.se/student/kurser/kurs/EP2500), PG Level, KTH, Sweden, 2025 Fall [Course web](https://www.kth.se/social/course/EP2500/)
-1. Teaching Assistant for [EP250V Cybersecurity and Privacy Summer School](https://www.kth.se/student/kurser/kurs/EP250V), PG Level, KTH, Sweden, 2024 Spring [Course web](https://www.kth.se/social/course/EP250V/)
-1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, China, 2022/23 Spring 
-1. Teaching Assistant for **Traffic Information Engineering**, PG Level, Sun Yat-sen University, China, 2022/23 Spring
-1. Teaching Assistant for **Network and Communication Principles**, UG Level, Sun Yat-sen University, China, 2022/23 Fall
-1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, China, 2021/22 Spring
+1. Teaching Assistant for [EP2520 Building Networked Systems Security](https://www.kth.se/student/kurser/kurs/EP2520), PG Level, KTH, Sweden, 2025/26/27 Spring.
+1. Teaching Assistant for [EP2510 Advanced Networked Systems Security](https://www.kth.se/student/kurser/kurs/EP2510), PG Level, KTH, Sweden, 2025/26/27 Fall.
+1. Teaching Assistant for [EP2500 Networked Systems Security](https://www.kth.se/student/kurser/kurs/EP2500), PG Level, KTH, Sweden, 2025/26/27 Fall.
+1. Teaching Assistant for [EP250V Cybersecurity and Privacy Summer School](https://www.kth.se/student/kurser/kurs/EP250V), PG Level, KTH, Sweden, 2024 Spring.
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, China, 2022/23 Spring. 
+1. Teaching Assistant for **Traffic Information Engineering**, PG Level, Sun Yat-sen University, China, 2022/23 Spring.
+1. Teaching Assistant for **Network and Communication Principles**, UG Level, Sun Yat-sen University, China, 2022/23 Fall.
+1. Teaching Assistant for **Traffic Big Data Technology**, UG Level, Sun Yat-sen University, China, 2021/22 Spring.
 
 ---
 

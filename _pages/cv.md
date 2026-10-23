@@ -17,20 +17,21 @@ Employment
 
 Education
 ======
-* **Bachelor's Degree** in Sun Yat-sen University, China, Sep. 2017 - Jun. 2021
+* **Bachelor's Degree** at Sun Yat-sen University, China, Sep. 2017 - Jun. 2021
   * Major: Traffic Engineering, School of Intelligent Systems Engineering
   * Minor: Logic, Department of Philosophy
   * Thesis Title: Fatigue Driving Detection Algorithm Based on Federated Learning and Multi-source Heterogeneous Data, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm)
 
-* **Master's Degree** in Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
+* **Master's Degree** at Sun Yat-sen University, China, Sep. 2021 - Jun. 2024  
   * Major: Traffic Information Engineering & Control, School of Intelligent Systems Engineering
   * Advisor: [Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
   * Thesis Title: Research of Asynchronous Federated Learning Mechanism for Driver Distraction Detection
 
-* **Doctoral Degree** in KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
+* **Doctoral Degree** at KTH Royal Institute of Technology, Sweden, Jul. 2024 - Now  
   * Major: Information and Communication Technology, Department of Computing and Learning Systems (CLS)
   * Supervisor: [Prof. Panos Papadimitratos](https://people.kth.se/~papadim/)
   * KTH Profile: [Here](https://www.kth.se/profile/shengliu/)
+  * Visiting PhD Student: [Prof. Dawn Song](https://dawnsong.io/)'s group at [UC Berkeley](https://www.berkeley.edu/), CA, USA, Jun. 2026 - Sep. 2026.
 
 
 
